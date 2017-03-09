@@ -2,19 +2,19 @@
 
 In this Project you ll get simple implementation of database for android.
 
-Loading into Android Studio:
+##Loading into Android Studio:
 unzip the file and load the file as it is on Android Studio
 Then on Left side below the project name You ll get many folders 
 select 
 app>src>main
 Here You ll get 2 types of file java(contians all java files) & res(contains layout and other resource files along with Menifest file)
 
-Implementation:
+##Implementation:
 Here  you will get implementation as two type of user 
-1. User Login(Who can either Login or Create new Account)
-2. Admin(Having all functions of database)
+-1. User Login(Who can either Login or Create new Account)
+-2. Admin(Having all functions of database)
 
-1.User Login
+###1.User Login
 Here you ll get two EditText i.e. username, Password
 After that there is a Submit button 
 
@@ -26,7 +26,7 @@ Fill all the fields given
 if any of the fields is left empty then a Toast ll appear as " Field cannot be left empty! "
 Confirm all the details and click " I Agree "
 
-2.Admin
+###2.Admin
 As a admin it should have all the power regarding its database so here we go
 Admin has the control over 3 things: View, Search or Delete Users
 View All Users:
