@@ -2,6 +2,14 @@
 
 In this Project you ll get simple implementation of database for android.
 
+Loading into Android Studio:
+unzip the file and load the file as it is on Android Studio
+Then on Left side below the project name You ll get many folders 
+select 
+app>src>main
+Here You ll get 2 types of file java(contians all java files) & res(contains layout and other resource files along with Menifest file)
+
+Implementation:
 Here  you will get implementation as two type of user 
 1. User Login(Who can either Login or Create new Account)
 2. Admin(Having all functions of database)
